@@ -1,4 +1,3 @@
 # app-dev
-My first repository
-#**Favorite Movie**
+**Favorite Movie**
 > Lolo and the Kid
